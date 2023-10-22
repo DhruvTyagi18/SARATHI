@@ -1,0 +1,5 @@
+1- Do basic config on Agora then deploy backend on Heroku.
+
+2- follow readme to run the app install agora dependencies
+
+3- Go to sarathi folder
